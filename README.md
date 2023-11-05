@@ -1,15 +1,15 @@
 ## juego sencillo
 ```
-apt update
+pkg update
 ```
 ```
-apt upgrade -y
+pkg upgrade -y
 ```
 ```
 termux-setup-storage
 ```
 ```
-apt install git unzip python -y
+pkg install git unzip python -y
 ```
 ```
 git clone https://github.com/Retired64/i-want-to-play.git
