@@ -3,7 +3,7 @@
 apt update
 ```
 ```
-apt uograde -y
+apt upgrade -y
 ```
 ```
 termux-setup-storage
